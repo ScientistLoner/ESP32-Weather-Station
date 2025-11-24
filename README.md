@@ -13,10 +13,10 @@
 - OLED 0.96" 128x64 (SSD1306)
 
 ## Подключение
-- ESP32  -> Датчики + OLED\
-- 3.3V   -> VCC\
-- GND    -> GND\
-- GPIO21 -> SDA\
+- ESP32  -> Датчики + OLED
+- 3.3V   -> VCC
+- GND    -> GND
+- GPIO21 -> SDA
 - GPIO22 -> SCL
 
 ## Зависимости
